@@ -27,7 +27,7 @@
 ```bash
 docker-compose up --build
 
-📚 Документация API
-Полное описание всех эндпоинтов доступно в:
-🔹 Swagger UI — http://localhost:7777/docs
-🔸 ReDoc — http://localhost:7777/redoc
+Доступные интерфейсы:
+- 🔧 Администрирование: [http://localhost:7777/admin](http://localhost:7777/admin)
+- 📊 Мониторинг задач: [http://localhost:5555](http://localhost:5555)
+- 📚 API документация: [http://localhost:7777/docs](http://localhost:7777/docs)
