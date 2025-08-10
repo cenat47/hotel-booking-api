@@ -26,3 +26,8 @@
 ### Локально (с Docker)  
 ```bash
 docker-compose up --build
+
+📚 Документация API
+Полное описание всех эндпоинтов доступно в:
+🔹 Swagger UI — http://localhost:7777/docs
+🔸 ReDoc — http://localhost:7777/redoc
